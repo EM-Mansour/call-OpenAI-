@@ -33,7 +33,7 @@
         const inputField = document.getElementById("input");
 
         // Replace with your OpenAI API key
-        const OPENAI_API_KEY = "your-openai-api-key";
+        const OPENAI_API_KEY = "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";
 
         inputField.addEventListener("keypress", async (e) => {
             if (e.key === "Enter") {
